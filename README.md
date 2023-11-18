@@ -1,15 +1,24 @@
 # online_fraud_detection
 
-About Dataset
-The below column reference:
+## About Dataset
+### The below column reference:
 
-step: represents a unit of time where 1 step equals 1 hour
-type: type of online transaction
-amount: the amount of the transaction
-nameOrig: customer starting the transaction
-oldbalanceOrg: balance before the transaction
-newbalanceOrig: balance after the transaction
-nameDest: recipient of the transaction
-oldbalanceDest: initial balance of recipient before the transaction
-newbalanceDest: the new balance of recipient after the transaction
-isFraud: fraud transaction
+1.step: represents a unit of time where 1 step equals 1 hour
+
+2.type: type of online transaction
+
+3.amount: the amount of the transaction
+
+4.nameOrig: customer starting the transaction
+
+5.oldbalanceOrg: balance before the transaction
+
+6.newbalanceOrig: balance after the transaction
+
+7.nameDest: recipient of the transaction
+
+8.oldbalanceDest: initial balance of recipient before the transaction
+
+9.newbalanceDest: the new balance of recipient after the transaction
+
+10.isFraud: fraud transaction
